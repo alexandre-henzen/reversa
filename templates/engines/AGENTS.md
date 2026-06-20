@@ -4,7 +4,14 @@
 
 ## Como usar
 
-Digite `reversa` para ativar o Reversa e iniciar ou retomar a análise do projeto.
+Use o fluxo adequado no chat:
+
+- `reversa` — descobrir e documentar um sistema existente
+- `reversa-new` — criar PRD e specs para um projeto novo
+- `reversa-forward` — implementar ou evoluir código a partir das specs
+- `reversa-migrate` — planejar a migração de um sistema legado
+- `reversa-docs` — gerar o mini-site visual da documentação
+- `reversa-agents-help` — consultar o catálogo completo de agentes
 
 ## Comportamento ao ativar
 
